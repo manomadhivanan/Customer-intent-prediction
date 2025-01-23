@@ -1,1 +1,1 @@
-# Customer-intent-prediction
+# Customer-Indent-Prediction
