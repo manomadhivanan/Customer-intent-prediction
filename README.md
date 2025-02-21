@@ -17,13 +17,13 @@ Understanding customer intent is essential for businesses to enhance engagement,
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with Machine learning frameworks.
+* Development Environment: Python (Version 3.x) is necessary for coding the Customer intent detection system.
+* Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit.
+* Processor: Intel i3 or higher.
+* RAM: 8GB or more (recommended for large datasets).
+* Storage: Minimum 50GB free space
+* Additional Dependencies: Includes Functional and Non-Functional requirements for defining problem, preparing data,evaluating algorithms, predicting and improving results.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
