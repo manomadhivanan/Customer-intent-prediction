@@ -7,11 +7,13 @@ Understanding customer intent is essential for businesses to enhance engagement,
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
+- Customer Data Analysis.
+- Machine Learning with Logistic Regression.
 - High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Data Preprocessing & Feature Selection.
+- Performance Evaluation Metrics.
+- Business Insights & Strategy Optimization.
+- A Web Page Based on the Various Calculus Metrics.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
