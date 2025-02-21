@@ -53,7 +53,7 @@ Note: These metrics can be customized based on your actual performance evaluatio
 This project leverages logistic regression to predict customer purchase intent, aiding businesses in data-driven decision-making. By analyzing demographics, past transactions, and interactions, the model estimates buying likelihood with high accuracy. The workflow includes data preprocessing, feature selection, model training, and performance evaluation. Key metrics like accuracy, precision, recall, and F1-score ensure model reliability. The insights enable targeted marketing, personalized recommendations, and enhanced customer engagement. This highlights the impact of predictive analytics in optimizing business strategies and growth.
 
 This project serves as a foundation for future developments in Integration of Advanced Machine Learning Models and
-Real-Time Data Processing and Automation
+Real-Time Data Processing and Automation.
 
 
 ## Articles published / References
