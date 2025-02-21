@@ -50,13 +50,18 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+This project leverages logistic regression to predict customer purchase intent, aiding businesses in data-driven decision-making. By analyzing demographics, past transactions, and interactions, the model estimates buying likelihood with high accuracy. The workflow includes data preprocessing, feature selection, model training, and performance evaluation. Key metrics like accuracy, precision, recall, and F1-score ensure model reliability. The insights enable targeted marketing, personalized recommendations, and enhanced customer engagement. This highlights the impact of predictive analytics in optimizing business strategies and growth.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This project serves as a foundation for future developments in Integration of Advanced Machine Learning Models and
+Real-Time Data Processing and Automation
+
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.	Lye, S. H., & Teh, P. L. (2021). Customer Intent Prediction using Sentiment Analysis Techniques. International Journal of Data Science and Analytics, 5(2), 112-121. DOI: 10.1007/s41060-021-00215-8.
+2.	Ling, C., Zhang, T., & Chen, Y. (2019). Customer Purchase Intent Prediction Under Online Multi-Channel Promotion: A Feature-Combined Deep Learning Framework. Journal of E-Commerce Research, 18(3), 78-90.
+3.	Tokuç, A. A., & Dağ, T. (2024). Customer Purchase Intent Prediction using Feature Aggregation on E-Commerce Clickstream Data. E-Commerce Analytics Journal, 12(1), 45-56. DOI: 10.1016/j.ecom.2024.0012.
+4.	Nisha, & Singh, A. S. (2023). Customer Behavior Prediction using Deep Learning Techniques for Online Purchasing. International Journal of Machine Learning Applications, 14(7), 89-101. DOI: 10.1016/j.mlapp.2023.07.006.
+5.	Krishna, R. D., Mahadev, M., Hariprasad, S., & Abhishek, S. (2023). Cultivating Customer Purchase Intent: Leveraging Machine Learning for Precise Predictions. Journal of Business Analytics, 10(4), 23-34. DOI: 10.1080/25732323.2023.1789102.
 
 
 
