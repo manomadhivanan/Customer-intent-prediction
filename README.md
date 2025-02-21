@@ -35,14 +35,16 @@ Understanding customer intent is essential for businesses to enhance engagement,
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Buying Intent (Customer Intent Prediction)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![image](https://github.com/user-attachments/assets/66a2a390-8b4f-4d59-aaa4-5b572c703fd6)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
+#### Output2 - Not-Buying Intent (Customer Intent Prediction)
+![image](https://github.com/user-attachments/assets/3646af05-8bc2-4214-b5a1-9aaa48508bcf)
+
+
+Detection Accuracy: 92.4%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
